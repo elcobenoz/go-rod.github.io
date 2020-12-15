@@ -47,7 +47,8 @@ By default, Rod will disable the browser's UI to maximize the performance.
 But when developing an automation task we usually care more about the ease of debugging.
 Rod provides a lot of solutions to help you debug the code.
 
-Let's create a ".rod" config file under the current working directory. The content is:
+Let's create a ".rod" config file under the current working directory.
+Note: the name of the file should be called ".rod" only, not "(anything else).rod". The content is:
 
 ```txt
 show
